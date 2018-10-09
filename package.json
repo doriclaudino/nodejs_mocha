@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_mocha",
+  "version": "1.0.0",
+  "description": "enviorment for tests",
+  "main": "./src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "dori.claudino@gmail.com",
+  "license": "ISC"
+}
